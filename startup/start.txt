@@ -1,0 +1,4 @@
+// to start the ruby on rails server 
+
+bin/rails server
+
